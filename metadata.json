@@ -1,0 +1,6 @@
+{
+  "name": "Pertamina SPBU POS & Thermal Receipt Engine",
+  "description": "Aplikasi POS Kasir SPBU Pertamina dengan pencetakan struk thermal 58mm/80mm, kalkulator liter dan rupiah dua arah, manajemen nozzle, shift operator, dan riwayat transaksi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
